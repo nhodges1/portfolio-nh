@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nhodges1/portfolio-nh.git/static/css/main.a60e6357.css",
-    "main.js": "/nhodges1/portfolio-nh.git/static/js/main.62adca93.js",
-    "static/media/gimmeadrink.png": "/nhodges1/portfolio-nh.git/static/media/gimmeadrink.dc8bddc6c7887ac14362.png",
-    "static/media/food-festival.png": "/nhodges1/portfolio-nh.git/static/media/food-festival.9a97a00f281d3613e7d6.png",
-    "static/media/background7.jpeg": "/nhodges1/portfolio-nh.git/static/media/background7.054d8021a52e608b71fb.jpeg",
-    "static/media/note-taker.png": "/nhodges1/portfolio-nh.git/static/media/note-taker.a6eb28f7b5e553fd65ce.png",
-    "index.html": "/nhodges1/portfolio-nh.git/index.html",
-    "main.a60e6357.css.map": "/nhodges1/portfolio-nh.git/static/css/main.a60e6357.css.map",
-    "main.62adca93.js.map": "/nhodges1/portfolio-nh.git/static/js/main.62adca93.js.map"
+    "main.css": "/portfolio-nh/static/css/main.a60e6357.css",
+    "main.js": "/portfolio-nh/static/js/main.0c0a92c8.js",
+    "static/media/gimmeadrink.png": "/portfolio-nh/static/media/gimmeadrink.dc8bddc6c7887ac14362.png",
+    "static/media/food-festival.png": "/portfolio-nh/static/media/food-festival.9a97a00f281d3613e7d6.png",
+    "static/media/background7.jpeg": "/portfolio-nh/static/media/background7.054d8021a52e608b71fb.jpeg",
+    "static/media/note-taker.png": "/portfolio-nh/static/media/note-taker.a6eb28f7b5e553fd65ce.png",
+    "index.html": "/portfolio-nh/index.html",
+    "main.a60e6357.css.map": "/portfolio-nh/static/css/main.a60e6357.css.map",
+    "main.0c0a92c8.js.map": "/portfolio-nh/static/js/main.0c0a92c8.js.map"
   },
   "entrypoints": [
     "static/css/main.a60e6357.css",
-    "static/js/main.62adca93.js"
+    "static/js/main.0c0a92c8.js"
   ]
 }
