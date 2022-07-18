@@ -2,8 +2,7 @@ import "./AboutContentStyle.css";
 
 import React from 'react';
 import { Link } from "react-router-dom";
-import React1 from "../assets/food-festival.png";
-import React2 from "../assets/note-taker.png";
+import Me from "../assets/nick.jpg";
 
 const AboutContent = () => {
   return (
@@ -11,7 +10,12 @@ const AboutContent = () => {
         <div className="left">
             <h1>Who am I?</h1>
             <p>
-                I'm a Full Stack Developer.
+                My name is Nick Hodges, and I am Full Stack Developer with a proven ability to collaborate effectively with experienced developers while spending extra time to be mentored.
+                I enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary.
+            </p>
+            <p>
+                With a passion for both personal growth and for software development, I attended a 1000+ hour coding bootcamp at the University of Central Florida to learn new languages while sharpening exisiting skills.
+                I am ready to apply my passion for coding to a talented engineering team to develop quality solutions.
             </p>
             <Link to="/contact">
                 <button className="btn">Contact</button>
@@ -19,11 +23,8 @@ const AboutContent = () => {
         </div>
         <div className="right">
             <div className="img-container">
-                <div className="img-stack top">
-                    <img src={React1} className="img" alt="top"/>
-                </div>
-                <div className="img-stack bottom">
-                    <img src={React2} className="img" alt="bottom"/>
+                <div className="img">
+                    <img src={ Me } className="img" alt="top"/>
                 </div>
             </div>
         </div>
