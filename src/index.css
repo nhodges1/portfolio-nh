@@ -27,6 +27,7 @@ ul {
   background: rgb(0, 153, 255);
   color: black;
   border: 1px solid white;
+  border-radius: 8px;
   font-weight: 600;
   cursor: pointer;
 }
