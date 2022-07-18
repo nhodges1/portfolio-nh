@@ -49,6 +49,14 @@
 
 .content .btn {
     margin: 1rem 0.2rem;
+    background: black;
+    color: white;
+    border: 1px solid white;
+}
+
+.content .btn:hover {
+    background: rgb(0, 153, 255);
+    color: black;
 }
 
 @media screen and (max-width:640px) {
