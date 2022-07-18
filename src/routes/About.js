@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 import Navbar from "../components/Navbar";
 import HeroImg2 from "../components/HeroImg2";
@@ -13,7 +13,7 @@ const About = () => {
       <AboutContent />
       <Footer />
     </div>
-  )
-}
+  );
+};
 
 export default About;
