@@ -24,7 +24,7 @@ const AboutContent = () => {
         <div className="right">
             <div className="img-container">
                 <div className="img">
-                    <img src={ Me } className="img" alt="top"/>
+                    <img src={ Me } className="img" alt="me"/>
                 </div>
             </div>
         </div>

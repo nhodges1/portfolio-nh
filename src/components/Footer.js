@@ -32,9 +32,9 @@ const Footer = () => {
                 <h4>Hope you enjoyed!</h4>
                 <p>Feel free to reach out to me at anytime. I'm open to all work!</p>
                 <div className="social">
-                    <FaFacebook size={30} style={{ color: "white", marginRight:"1rem" }} />
-                    <FaTwitter size={30} style={{ color: "white", marginRight:"1rem" }} />
-                    <FaLinkedin size={30} style={{ color: "white", marginRight:"1rem" }} />
+                    <a href="https://www.linkedin.com/in/nick-hodges-ba9058177/">
+                        <FaLinkedin size={30} style={{ color: "white", marginRight:"1rem" }} />
+                    </a>
                 </div>
             </div>
         </div>

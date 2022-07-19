@@ -22,109 +22,109 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Note Taker",
         text: "Take notes efficiently!",
-        view: "https://note-taker-nh.herokuapp.com/"
+        view: "https://note-taker-nh.herokuapp.com"
     },
     {
         imgsrc: pro2,
         title: "Food Festival",
         text: "Visit our food festival!",
-        view: "url"
+        view: "https://nhodges1.github.io/food-festival/"
     },
     {
         imgsrc: pro3,
         title: "Drink up",
         text: "Your favorite drink recipes!",
-        view: "url"
+        view: "https://ru3ykat.github.io/gimme-a-drink/"
     },
     {
         imgsrc: pro4,
         title: "Horiseon",
         text: "Mock company website.",
-        view: "url"
+        view: "https://nhodges1.github.io/Challenge-1-horiseon-nh/"
     },
     {
         imgsrc: pro5,
         title: "Work Scheduler",
         text: "Schedule out your work day.",
-        view: "url"
+        view: "https://nhodges1.github.io/work-day-scheduler/"
     },
     {
         imgsrc: pro6,
         title: "Taskinator",
         text: "Keep track of your tasks.",
-        view: "url"
+        view: "https://nhodges1.github.io/taskinator/"
     },
     {
         imgsrc: pro7,
         title: "Zookeeper",
         text: "We love animals!",
-        view: "url"
+        view: "https://zookeepernh.herokuapp.com/"
     },
     {
         imgsrc: pro8,
         title: "Tech Blog",
         text: "Lets talk tech!",
-        view: "url"
+        view: "https://zookeepernh.herokuapp.com/"
     },
     {
         imgsrc: pro9,
         title: "Pizza Hunt",
         text: "Favorite pizza recipes!",
-        view: "url"
+        view: "https://pizza-hunt-nh.herokuapp.com/"
     },
     {
         imgsrc: pro10,
         title: "Robot Gladiators",
         text: "Basic Javascript game.",
-        view: "url"
+        view: "https://nhodges1.github.io/robot-gladiators/"
     },
     {
         imgsrc: pro11,
         title: "Run Buddy",
         text: "Mock local gym website.",
-        view: "url"
+        view: "https://nhodges1.github.io/run-buddy/"
     },
     {
         imgsrc: pro12,
         title: "Weather Dashboard",
         text: "Search current weather.",
-        view: "url"
+        view: "https://nhodges1.github.io/weather-dashboard/"
     },
     {
         imgsrc: pro13,
         title: "Password Generator",
         text: "Geneate new passwords.",
-        view: "url"
+        view: "https://nhodges1.github.io/password-generator/"
     },
     {
         imgsrc: pro14,
         title: "Git It Done",
         text: "Search github repositories.",
-        view: "url"
+        view: "https://nhodges1.github.io/git-it-done/"
     },
     {
         imgsrc: pro15,
         title: "Task Master Pro",
         text: "Track your tasks efficently.",
-        view: "url"
+        view: "https://nhodges1.github.io/taskmaster-pro/"
     },
     {
         imgsrc: pro16,
         title: "Just Tech News",
         text: "Latest tech updates.",
-        view: "url"
+        view: "https://just-tech-newsss.herokuapp.com/"
     },
     {
         imgsrc: pro17,
         title: "Interview Key",
         text: "Prepare for interviews.",
-        view: "url"
+        view: "https://morning-coast-83495.herokuapp.com/"
     },
     {
         imgsrc: pro18,
         title: "Eleven",
         text: "Mock Social media app.",
-        view: "url"
+        view: "https://murmuring-mesa-60919.herokuapp.com/"
     },
 ]
 

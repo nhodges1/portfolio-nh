@@ -1,6 +1,6 @@
-import "./FormStyle.css"
+import "./FormStyle.css";
 
-import React from 'react'
+import React from 'react';
 
 const Form = () => {
   return (
@@ -17,7 +17,7 @@ const Form = () => {
             <button className="btn">Send</button>
         </form>
     </div>
-  )
-}
+  );
+};
 
 export default Form
