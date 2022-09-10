@@ -2,11 +2,12 @@ import "./FooterStyle.css"
 
 import React from 'react'
 
-import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa"
+import { FaHome, FaPhone, FaMailBulk, FaLinkedin } from "react-icons/fa"
 
 const Footer = () => {
   return (
-    <div className="footer">
+    <div className="footer" data-aos="zoom-in-down"
+        data-aos-duration="3000">
         <div className="footer-content">
             <div className="left">
                 <div className="location">

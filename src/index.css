@@ -7,6 +7,10 @@
   font-family: 'Mochiy Pop P One', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: black;
 }

@@ -1,18 +1,20 @@
-import "./HomeProjectsStyle.css"
+import "./HomeProjectsStyle.css";
 
 import { Link, NavLink } from "react-router-dom";
 import pro1 from "../assets/note-taker.png";
 import pro2 from "../assets/food-festival.png";
 import pro3 from "../assets/gimmeadrink.png";
 
-import React from 'react'
+import React from 'react';
 
 const HomeProjects = () => {
   return (
     <div className="work-container">
         <h1 className="project-heading">Projects</h1>
         <div className="project-container">
-            <div className="project-card">
+            <div className="project-card" data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+                data-aos-duration="3000">
                 <img src={ pro1 } alt="img" />
                 <h2 className="project-title">Note Taker</h2>
                 <div className="pro-details">
@@ -22,7 +24,9 @@ const HomeProjects = () => {
                     </div>
                 </div>
             </div>
-            <div className="project-card">
+            <div className="project-card" data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+                data-aos-duration="3000">
                 <img src={ pro2 } alt="img" />
                 <h2 className="project-title">Food Festival</h2>
                 <div className="pro-details">
@@ -32,7 +36,9 @@ const HomeProjects = () => {
                     </div>
                 </div>
             </div>
-            <div className="project-card">
+            <div className="project-card" data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+                data-aos-duration="3000">
                 <img src={ pro3 } alt="img" />
                 <h2 className="project-title">Drink up</h2>
                 <div className="pro-details">
@@ -50,4 +56,4 @@ const HomeProjects = () => {
   )
 }
 
-export default HomeProjects
+export default HomeProjects;

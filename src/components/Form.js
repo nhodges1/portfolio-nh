@@ -4,7 +4,7 @@ import React from 'react';
 
 const Form = () => {
   return (
-    <div className="form">
+    <div className="form" data-aos="fade-right" data-aos-duration="3000">
         <form>
             <label>Your Name</label>
             <input type="text"></input>

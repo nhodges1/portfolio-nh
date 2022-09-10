@@ -7,7 +7,7 @@ import Me from "../assets/nick.jpg";
 const AboutContent = () => {
   return (
     <div className="about">
-        <div className="left">
+        <div className="left" data-aos="fade-down-right" data-aos-duration="3000">
             <h1>Who am I?</h1>
             <p>
                 My name is Nick Hodges, and I am Full Stack Developer with a proven ability to collaborate effectively with experienced developers while spending extra time to be mentored.
@@ -21,8 +21,8 @@ const AboutContent = () => {
                 <button className="btn">Contact</button>
             </Link>
         </div>
-        <div className="right">
-            <div className="img-container">
+        <div className="right" data-aos="fade-down-left" data-aos-duration="3000">
+            <div className="img-container" data-aos="fade-down-left">
                 <div className="img">
                     <img src={ Me } className="img" alt="me"/>
                 </div>

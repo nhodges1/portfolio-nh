@@ -4,7 +4,9 @@ import React from 'react';
 
 const workCard = (props) => {
   return (
-    <div className="project-card">
+    <div className="project-card" data-aos="flip-left"
+      data-aos-easing="ease-out-cubic"
+      data-aos-duration="3000">
         <img src={ props.imgsrc } alt="img" />
         <h2 className="project-title">{props.title}</h2>
         <div className="pro-details">

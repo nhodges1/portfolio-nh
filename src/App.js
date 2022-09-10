@@ -7,6 +7,10 @@ import Projects from "./routes/Projects";
 import ScrollToTop from "./components/ScrollToTop";
 
 import { Route, Routes } from "react-router-dom";
+import AOS from "aos";
+import 'aos/dist/aos.css';
+
+AOS.init();
 
 function App() {
   return (
