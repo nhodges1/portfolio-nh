@@ -12,7 +12,7 @@ const HomeProjects = () => {
     <div className="work-container">
         <h1 className="project-heading">Projects</h1>
         <div className="project-container">
-            <div className="project-card" data-aos="flip-left"
+            <div className="project-card" data-aos="fade-up-right"
                 data-aos-easing="ease-out-cubic"
                 data-aos-duration="3000">
                 <img src={ pro1 } alt="img" />
@@ -24,7 +24,7 @@ const HomeProjects = () => {
                     </div>
                 </div>
             </div>
-            <div className="project-card" data-aos="flip-left"
+            <div className="project-card" data-aos="fade-up"
                 data-aos-easing="ease-out-cubic"
                 data-aos-duration="3000">
                 <img src={ pro2 } alt="img" />
@@ -36,7 +36,7 @@ const HomeProjects = () => {
                     </div>
                 </div>
             </div>
-            <div className="project-card" data-aos="flip-left"
+            <div className="project-card" data-aos="fade-up-left"
                 data-aos-easing="ease-out-cubic"
                 data-aos-duration="3000">
                 <img src={ pro3 } alt="img" />

@@ -22,7 +22,7 @@ const AboutContent = () => {
             </Link>
         </div>
         <div className="right" data-aos="fade-down-left" data-aos-duration="3000">
-            <div className="img-container" data-aos="fade-down-left">
+            <div className="img-container">
                 <div className="img">
                     <img src={ Me } className="img" alt="me"/>
                 </div>

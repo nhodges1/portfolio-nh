@@ -12,7 +12,7 @@ const HeroImg = () => {
     </div>
     <div className="content">
         <h1>Full Stack Developer</h1>
-        <div>
+        <div data-aos="zoom-in-up" data-aos-duration="1000">
             <Link to="/projects" className="btn">
                 Projects
             </Link>
