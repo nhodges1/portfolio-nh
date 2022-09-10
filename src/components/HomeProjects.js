@@ -20,7 +20,7 @@ const HomeProjects = () => {
                 <div className="pro-details">
                     <p>Take notes efficiently!</p>
                     <div className="pro-btns">
-                        <NavLink to={""} className="btn">View</NavLink>
+                        <a href="https://note-taker-nh.herokuapp.com" className="btn">View</a>
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@ const HomeProjects = () => {
                 <div className="pro-details">
                     <p>Visit our food festival!</p>
                     <div className="pro-btns">
-                        <NavLink to={""} className="btn">View</NavLink>
+                        <a href="https://nhodges1.github.io/food-festival/" className="btn">View</a>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@ const HomeProjects = () => {
                 <div className="pro-details">
                     <p>Your favorite drink recipes!</p>
                     <div className="pro-btns">
-                        <NavLink to={""} className="btn">View</NavLink>
+                        <a href="https://ru3ykat.github.io/gimme-a-drink/" className="btn">View</a>
                     </div>
                 </div>
             </div>
