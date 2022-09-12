@@ -1,6 +1,6 @@
 import "./HomeProjectsStyle.css";
 
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import pro1 from "../assets/note-taker.png";
 import pro2 from "../assets/food-festival.png";
 import pro3 from "../assets/gimmeadrink.png";
