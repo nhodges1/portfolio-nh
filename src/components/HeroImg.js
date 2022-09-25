@@ -2,13 +2,13 @@ import "./HeroImgStyle.css";
 
 import React from 'react';
 
-import IntroImg from "../assets/background7.jpeg";
+import IntroVid from "../assets/movingbackground.mp4";
 import { Link } from "react-router-dom";
 
 const HeroImg = () => {
   return <div className="hero">
     <div className="mask">
-        <img className="into-img" src={IntroImg} alt="IntroImg" />
+        <video className="intro-vid" src={IntroVid} autoPlay loop muted />
     </div>
     <div className="content">
         <h1>Full Stack Developer</h1>
